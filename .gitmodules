@@ -1,0 +1,3 @@
+[submodule "realsense-fps-and-video"]
+	path = realsense-fps-and-video
+	url = https://github.com/HiepDoTrong/realsense-fps-and-video.git
